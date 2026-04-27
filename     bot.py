@@ -3,8 +3,8 @@ import aiosqlite
 from aiogram import Bot, Dispatcher, types
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-TOKEN = "TOKENINGNI_BU_YERGA_QOY"
-ADMIN_ID = 123456789
+TOKEN = "8650148089:AAEBZIxFU1mBgQbpoYuOi8KT37V_GER89Dg"
+ADMIN_ID = 8007670371
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
